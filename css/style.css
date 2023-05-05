@@ -2268,6 +2268,10 @@ swiper-container .swiper-notification {
     font-size: 18px;
   }
 
+  .cosmetics {
+    display: none;
+  }
+
   .footer-top__list {
     -webkit-box-align: center;
         -ms-flex-align: center;
